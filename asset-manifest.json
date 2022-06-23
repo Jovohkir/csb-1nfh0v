@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jovohkir.github.io/csb-1nfh0v/static/css/main.a56f2bba.chunk.css",
+    "main.js": "https://jovohkir.github.io/csb-1nfh0v/static/js/main.3da3aac3.chunk.js",
+    "main.js.map": "https://jovohkir.github.io/csb-1nfh0v/static/js/main.3da3aac3.chunk.js.map",
+    "runtime-main.js": "https://jovohkir.github.io/csb-1nfh0v/static/js/runtime-main.3d1d4369.js",
+    "runtime-main.js.map": "https://jovohkir.github.io/csb-1nfh0v/static/js/runtime-main.3d1d4369.js.map",
+    "static/js/2.f3b1b22c.chunk.js": "https://jovohkir.github.io/csb-1nfh0v/static/js/2.f3b1b22c.chunk.js",
+    "static/js/2.f3b1b22c.chunk.js.map": "https://jovohkir.github.io/csb-1nfh0v/static/js/2.f3b1b22c.chunk.js.map",
+    "index.html": "https://jovohkir.github.io/csb-1nfh0v/index.html",
+    "static/css/main.a56f2bba.chunk.css.map": "https://jovohkir.github.io/csb-1nfh0v/static/css/main.a56f2bba.chunk.css.map",
+    "static/js/2.f3b1b22c.chunk.js.LICENSE.txt": "https://jovohkir.github.io/csb-1nfh0v/static/js/2.f3b1b22c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d1d4369.js",
+    "static/js/2.f3b1b22c.chunk.js",
+    "static/css/main.a56f2bba.chunk.css",
+    "static/js/main.3da3aac3.chunk.js"
+  ]
+}
